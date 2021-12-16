@@ -1,0 +1,22 @@
+{
+	"gpuModels": [
+		{
+			"gpu": "Mali-T860",
+			"filamentSupport": false,
+			"filamentWhiteList": [
+				"OPPO XXX"
+			]
+		},
+		{
+			"gpu": "Mali-T720",
+			"filamentSupport": false
+		}
+	],
+
+	"deviceModels": [
+		{
+			"device": "huawei",
+			"haircolor": false
+		}
+	]
+}
